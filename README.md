@@ -82,11 +82,13 @@ The internal pinout
 
 ## Makecode
 
-[Documentaci'on](http://meowbit-doc.kittenbot.cn/#/makecode/makecode%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
+[Documentación](http://meowbit-doc.kittenbot.cn/#/makecode/makecode%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
 
 ## Kittenblock
 
-[Documentaci'on](http://meowbit-doc.kittenbot.cn/#/kittenblock/kittenblockQS)
+[Documentación](http://meowbit-doc.kittenbot.cn/#/kittenblock/kittenblockQS)
+
+[kittenblock (scratch para kittenblock)](https://www.kittenbot.cc/pages/software)
 
 ## Micropython
 
