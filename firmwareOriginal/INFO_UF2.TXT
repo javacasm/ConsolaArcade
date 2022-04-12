@@ -1,0 +1,3 @@
+UF2 Bootloader v2.7.0 W
+Model: Kittenbot / MeowBit V1
+Board-ID: STM32F401-MEOWBIT

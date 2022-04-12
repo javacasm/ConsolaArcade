@@ -68,6 +68,8 @@ The internal pinout
 
 ![](./images/1Sbv9O.png)
 
+
+
 ## Recursos
 
 [Documentacion](http://meowbit-doc.kittenbot.cn/#/)
@@ -80,9 +82,29 @@ The internal pinout
 
 [Extensión scratch 3 que incluy firmware y ejemplos de micropython](https://github.com/KittenBot/s3ext-meowbit)
 
+[Tutoriales](https://github.com/KittenBot/meowbit-tutorials)
+
 ## Makecode
 
+[Documentación](https://www.kittenbot.cc/blogs/learn/meowbit-documents-navigations)
+
+[Documetos](https://kittenbothk-eng.readthedocs.io/en/latest/meowbit/index.html)
+
 [Documentación](http://meowbit-doc.kittenbot.cn/#/makecode/makecode%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
+
+[firmware](https://github.com/KittenBot/uf2-meowbit/releases)
+
+## SD Radio
+
+Protocols: Radio/Wireless 2.4GHz, Bluetooth 2.4G
+Wireless Mode Indicator (Green for 2.4GHz, Blue for Bluetooth)
+
+[Tutorial](https://kittenbothk-eng.readthedocs.io/en/latest/meowbit/meowbit_radio.html)
+
+![](./images/sd1.png)
+![](./images/sd2.png)
+
+[Extensión para arcade.makecode](https://github.com/KittenBot/pxt-sdwireless)
 
 ## Kittenblock
 
@@ -92,6 +114,8 @@ The internal pinout
 
 ## Micropython
 
+Existe una primer port (llamado _old_ en la documentación) que 'emula' una pyboard y uno posterior propio _meowbit_
+
 [Port the Micropython para Meowbit](https://github.com/KittenBot/micropython_meowbit)
 
 [How to use micropython on Meowbit](https://www.oztoylib.com.au/2019/07/13/micropython-on-the-kittenbot-meowbit/)
@@ -100,9 +124,11 @@ The internal pinout
 
 [mu-editor (solo para windows)](https://www.kittenbot.cc/pages/software)
 
-[Tutorial de micropython (en chino)](http://meowbit-doc.kittenbot.cn/#/micropython/micropython%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
+[Tutorial micropython](https://www.kittenbot.cc/blogs/learn/meowbit-micropython-programming)
 
-### Ejemplos
+[Tutorial antiguo de micropython (en chino)](http://meowbit-doc.kittenbot.cn/#/micropython/micropython%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
+
+### Ejemplos Olds
 
 [LED](./micropython/led.py)
 
